@@ -1,0 +1,12 @@
+{
+  "files": [],
+  "include": [],
+  "references": [
+    {
+      "path": "./object-types"
+    },
+    {
+      "path": "./sum-function"
+    }
+]
+}

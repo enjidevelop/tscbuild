@@ -1,0 +1,1 @@
+const testObjectTypes: string = 'test';
